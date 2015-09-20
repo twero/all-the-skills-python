@@ -1,7 +1,7 @@
 #print("wadafa")
 list=["yeee","yeee","yee","ye"]
 #print(list)
-#print(list[0])
+print(list[0])
 
 def hi():
 	print("empty")
